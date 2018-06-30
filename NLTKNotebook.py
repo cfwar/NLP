@@ -1,3 +1,5 @@
+#alice.txt is Alice In Wonderland 
+
 from nltk.corpus import PlaintextCorpusReader
 corpus_root = '/Users/patrickgrayson/Documents'
 
